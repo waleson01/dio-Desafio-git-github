@@ -1,0 +1,2 @@
+Criando arquivo pelo git bash
+.
